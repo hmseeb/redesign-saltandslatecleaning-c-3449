@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Salt &amp; Slate Cleaning Company">
+  <rect width="64" height="64" rx="12" fill="#2C3540"/>
+  <path d="M14 44c6-2 9-6 9-12 0-5-3-8-3-11 0-2 1-4 3-5" fill="none" stroke="#9C4F27" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="42" cy="22" r="4.5" fill="#F7F4EF"/>
+  <circle cx="49" cy="34" r="3" fill="#B4873A"/>
+  <circle cx="38" cy="38" r="2.5" fill="#F7F4EF" opacity=".8"/>
+  <path d="M24 48h26" stroke="#F7F4EF" stroke-width="3" stroke-linecap="round"/>
+</svg>
